@@ -1,8 +1,21 @@
-Script ini merupakan alat (tool) untuk mengambil informasi katalog produk WhatsApp Business dari nomor WA tertentu menggunakan GraphQL API WhatsApp. Berikut penjelasan fungsinya secara lengkap:
+# WhatsApp Business Catalog Scraper
 
+**WhatsApp Business Catalog Scraper** adalah sebuah tool sederhana namun powerful yang memungkinkan Anda mengambil **informasi katalog produk** dari nomor WhatsApp Business tertentu menggunakan **GraphQL API WhatsApp**.
 
----
+## :clapper: Demo
 
-Fungsi Utama:
+![github](https://github.com/sptzyy/Informasi-whatsapp-bisnis.git)
 
-Mengakses katalog produk milik akun WhatsApp Business berdasarkan nomor yang kamu input. Biasanya digunakan untuk memeriksa apakah sebuah akun WA Business memiliki katalog produk aktif (seperti toko online di WhatsApp).
+*(Animasi ini menunjukkan proses pengambilan katalog secara real-time)*
+
+## :mag_right: Fitur Utama
+- Mengambil data katalog produk dari akun WhatsApp Business
+- Mendukung query menggunakan GraphQL API
+- Output data bersih dan siap digunakan untuk analisis atau integrasi lebih lanjut
+
+## :hammer_and_wrench: Cara Penggunaan
+
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/sptzyy/Informasi-whatsapp-bisnis.git
+   cd Informasi-whatsapp-bisnis
